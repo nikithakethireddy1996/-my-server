@@ -1,0 +1,37 @@
+{
+  
+"name": "package.json",
+  
+"version": "1.0.0",
+  
+"description": "my server app",
+  
+"main": "server.js",
+  
+"scripts": {
+    
+"test": "Error: No test function specied && exit 1"
+ 
+ },
+  
+
+"repository": {
+   
+ "type": "git",
+   
+ "url": "my-server"
+  
+},
+ 
+
+ "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "node"
+  ],
+  
+"author": "Nikitha Kethireddy",
+  
+"license": "ISC"
+}
